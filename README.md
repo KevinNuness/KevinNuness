@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I dream of working in the programming field
 
 ## 🌍 Languages I Speak
-- 🇵🇹 Portuguese (Native)
+- 🇧🇷 Portuguese (Native)
 - 🇺🇸 English (Intermediate)
 - 🇪🇸 Spanish (Intermediate)
 
