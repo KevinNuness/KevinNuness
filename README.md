@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kevin Nunes!                   ![gogo](https://github.com/KevinNuness/KevinNuness/assets/164961450/cc7b80f3-f5c4-47e9-89ec-566934621a72)
+# 👋 Hi, I'm Kevin Nunes!
 
 [![Visits Badge](https://badges.pufler.dev/visits/KevinNuness/KevinNuness)](https://badges.pufler.dev) ![GitHub followers](https://img.shields.io/github/followers/KevinNuness?style=social) ![GitHub stars](https://img.shields.io/github/stars/KevinNuness?style=social)
 
