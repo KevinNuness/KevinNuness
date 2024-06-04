@@ -11,7 +11,7 @@
 
 ## 🌍 Languages I Speak
 - 🇵🇹 Portuguese (Native)
-- 🇬🇧 English (Intermediate)
+- en English (Intermediate)
 - 🇪🇸 Spanish (Intermediate)
 
 ## 🚀 My Skills
