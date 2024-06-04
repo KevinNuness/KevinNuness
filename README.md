@@ -11,7 +11,7 @@
 
 ## 🌍 Languages I Speak
 - 🇵🇹 Portuguese (Native)
-- 🇬🇧 EN English (Intermediate)
+- 🇺🇸 English (Intermediate)
 - 🇪🇸 Spanish (Intermediate)
 
 ## 🚀 My Skills
@@ -34,4 +34,3 @@
 
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=KevinNuness&theme=radical)
-
