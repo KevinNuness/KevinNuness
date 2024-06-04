@@ -34,4 +34,3 @@
 ## 🌟 Contributions
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=KevinNuness&theme=radical)
 
-![gogo](https://github.com/KevinNuness/KevinNuness/assets/164961450/07c99a27-71b0-4abe-9b99-67027f522ffb)
