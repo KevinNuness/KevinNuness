@@ -30,6 +30,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinNuness&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinNuness&layout=compact&theme=radical)
-
-## 🌟 Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=KevinNuness&theme=radical)
